@@ -45,6 +45,6 @@
   ],
   "theme_color": "#ffffff",
   "background_color": "#01579b",
-  "start_url": "https://peaceful-temple-57059.herokuapp.com/",
+  "start_url": "index.html",
   "display": "minimal-ui"
 }
