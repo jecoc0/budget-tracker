@@ -24,7 +24,7 @@ Transactions will store locally to your browser, and transactions created with a
 ## Credits 
 * Trilogy Course work
 * Trilogy Starter Code
-* Bug checks by [Tyler Negro](https://github.com/tylern88)
+* Bug checks and drying my tears of frustration 😭 🤬 by [Tyler Negro](https://github.com/tylern88)
 
 ## License
 MIT
